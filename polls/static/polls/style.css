@@ -1,0 +1,9 @@
+body {
+    background: white url("images/background.png") no-repeat;
+    background-color: lemonchiffon;
+    background-position: left;
+}
+
+li a {
+    color: darksalmon;
+}
